@@ -1,4 +1,4 @@
-module github.com/rebeccamcelroy/blowfish_test
+module github.com/rebeccamcelroy/rebeccamcelroy.github.io
 
 go 1.20
 
